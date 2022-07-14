@@ -10,6 +10,9 @@ Usei CSS Transitions para criar o menu hamburguer e morphing menu.
 
 ## Autor  
 
-| [<img src="https://avatars.githubusercontent.com/u/80931364?v=4" width=115><br><sub>Guilherme Braga</sub>](https://github.com/braguilweb) 
+ [<img src="https://avatars.githubusercontent.com/u/80931364?v=4" width=115><br><sub>Guilherme Braga</sub>](https://github.com/braguilweb) 
 
-# https://github.com/braguilweb/Desafio-de-Projeto-DIO-Menu_Hamburger.git
+
+## Links Úteis  
+
+### Curso GRÁTIS de Programação! [INSCREVA-SE AQUI!](https://dio.me/sign-up?ref=8C0TGVC5J8).
